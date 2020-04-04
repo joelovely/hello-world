@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository, just learning
+I'm learning how to work on github, making branches to commit changes on the files...
